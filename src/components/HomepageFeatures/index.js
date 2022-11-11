@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'What\'s this now?',
+    Svg: require('@site/static/img/pedal.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        There are so many fantastic boutique pedal companies in the world that it's sometimes difficult to keep track of them all
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'By builders for you!',
+    Svg: require('@site/static/img/builders.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        This directory is authored by pedal makers to make your pedal search easier.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'What makes a pedal \"Boutique\"',
+    Svg: require('@site/static/img/storefront.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+       Let's try not to worry about that too much. There are lots of thoughts and opinions about what is and what isn't a boutique pedal but none of that matters. What does matter is checking out sick pedals!
       </>
     ),
   },
