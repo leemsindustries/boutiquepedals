@@ -13,7 +13,7 @@ We build wacky expression pedals that are activated by stomping, flicking and da
 <iframe width="100%" height="444" src="https://www.youtube.com/embed/Ae249y2hk1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### About 
-LEEMS Industries LLC was created out of frustration that the main accepted way to control expression parameters was by rocking your ankle back and forth. There is an infinite number of movements your body can be make while playing music and any of them should be able to control a parameter on your favorite pedal. We have created a line of expression pedals like you've never seen before taking input from all sorts of mechanisms from springs to lasers ( yes really).     
+LEEMS Industries LLC was created out of frustration that the main accepted way to control expression parameters was by rocking your ankle back and forth. There is an infinite number of movements your body can make while playing music and any of them should be able to control a parameter on your favorite pedal. We have created a line of expression pedals like you've never seen before taking input from all sorts of mechanisms from springs to lasers (yes really).     
 ____________________________________
 
 ### Products
