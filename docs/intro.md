@@ -15,7 +15,7 @@ This directory was created by [LEEMS Industries LLC](https://www.leemsindustries
 
 ### No Ads
 
-Although the information in this directory might lead to you buy a sick pedal, you will not be bombarded with ads and no affiliate links are allowed.
+Although the information in this directory might lead to you buy a sick pedal, you will not be bombarded with ads as you browse the directory.
 
 ### Donate
 

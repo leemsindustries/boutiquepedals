@@ -30,8 +30,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`BoutiquePedals.co | Directory of Boutique Pedal Companies`}
+      description="BoutiquePedals.co helps you find sick new pedals from builders who strive to craft the best of the best in effects pedals">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
