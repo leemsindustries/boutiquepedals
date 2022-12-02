@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`BoutiquePedals.co | Directory of Boutique Pedal Companies`}
-      description="BoutiquePedals.co helps you find sick new pedals from builders who strive to craft the best of the best in effects pedals">
+      description="BoutiquePedals.co helps you find sick new pedals from builders who strive to craft the best of the best in effects pedals. The list of companies in the directory has been created to allow you to quickly see what each maker is all about so that you can find the right boutique pedal for your needs.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

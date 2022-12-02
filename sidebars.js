@@ -22,6 +22,7 @@ const sidebars = {
     'intro',
     '29 Pedals',
     'Collision Devices',
+    'Dead Air',
     'dunn effects',
     'LEEMS Industries LLC'
   ]
