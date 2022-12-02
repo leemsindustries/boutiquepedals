@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'BoutiquePedals.co',
   tagline: 'Boutique Pedal Company Directory',
-  url: 'https://boutiquepedals.onrender.com/',
+  url: 'https://boutiquepedals.co/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
