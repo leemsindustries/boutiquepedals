@@ -24,7 +24,8 @@ const sidebars = {
     'Collision Devices',
     'Dead Air',
     'dunn effects',
-    'LEEMS Industries LLC'
+    'LEEMS Industries LLC',
+    'Pedal Brainz'
   ]
    
 };
