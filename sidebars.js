@@ -18,15 +18,30 @@ const sidebars = {
 
   // But you can create a sidebar manually
   
-  turorialSidebar: [
-    'intro',
-    '29 Pedals',
-    'Collision Devices',
-    'Dead Air',
-    'dunn effects',
-    'LEEMS Industries LLC',
-    'Pedal Brainz'
-  ]
+    turorialSidebar: [
+        'intro',
+        '29 Pedals',
+        'Backelite Boutique Pedals',
+        'Buzztone Audio Effects',
+        'Cascade Pedals',
+        'Cat Box Customs',
+        'Collision Devices',
+        'Dead Air',
+        'Demonic Machines',
+        'Dogman Devices',
+        'dunn effects',
+        'ExtraTerrestrial Products',
+        'Gojira FX',
+        'Heathencraft fx',
+        'LEEMS Industries LLC',
+        'Mattoverse Electronics',
+        'Pedal Brainz',
+        'Radio Mule',
+        'Soundslicefx',
+        'SPS Pedals',
+        'Vertigo Noise',
+
+    ]
    
 };
 
