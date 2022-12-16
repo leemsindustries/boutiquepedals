@@ -30,6 +30,7 @@ const sidebars = {
         'Demonic Machines',
         'Dogman Devices',
         'dunn effects',
+        'Emerald Ox',
         'ExtraTerrestrial Products',
         'Gojira FX',
         'Heathencraft fx',
