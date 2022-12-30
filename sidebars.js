@@ -21,6 +21,8 @@ const sidebars = {
     turorialSidebar: [
         'intro',
         '29 Pedals',
+        'Acorn Amplifiers',
+        'Analog Noir Electric',
         'Backelite Boutique Pedals',
         'Buzztone Audio Effects',
         'Cascade Pedals',
@@ -34,12 +36,19 @@ const sidebars = {
         'ExtraTerrestrial Products',
         'Gojira FX',
         'Heathencraft fx',
+        "Humanoid",
         'LEEMS Industries LLC',
         'Mattoverse Electronics',
+        'Native Audio',
         'Pedal Brainz',
+        'The Pill Pedal',
+        'Poison Noises',
+        'Raccoon Labs',
         'Radio Mule',
+        'Retroactive Pedals',
         'Soundslicefx',
         'SPS Pedals',
+        'Subdecay Effects',
         'Vertigo Noise',
 
     ]
