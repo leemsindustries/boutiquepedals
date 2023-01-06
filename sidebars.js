@@ -28,12 +28,14 @@ const sidebars = {
         'Cascade Pedals',
         'Cat Box Customs',
         'Collision Devices',
+        'David Ross Musical Instruments',
         'Dead Air',
         'Demonic Machines',
         'Dogman Devices',
         'dunn effects',
         'Emerald Ox',
         'ExtraTerrestrial Products',
+        'Gear ant',
         'Gojira FX',
         'Heathencraft fx',
         "Humanoid",
@@ -49,6 +51,7 @@ const sidebars = {
         'Soundslicefx',
         'SPS Pedals',
         'Subdecay Effects',
+        'Tall Timber',
         'Vertigo Noise',
 
     ]
